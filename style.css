@@ -1,0 +1,21 @@
+input {
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+}
+
+button {
+    padding: 5px;
+}
+
+.success {
+    border: 2px solid green;
+}
+
+.error {
+    border: 2px solid red;
+}
+
+.run {
+    transform: translate(105px);
+}
